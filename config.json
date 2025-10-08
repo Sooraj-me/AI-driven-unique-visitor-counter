@@ -1,0 +1,6 @@
+{
+  "detection_skip_frames": 5,
+  "database_path": "database/visitors.db",
+  "log_dir": "logs/",
+  "video_source": "data/sample_video.mp4"
+} 
